@@ -1,11 +1,11 @@
 {
-    "client_id": 1028481461990457354,
-    "bot_token": "MTAyODQ4MTQ2MTk5MDQ1NzM1NA.GYs9SB.2Xbs9NLItv5HM1a_AhT2HFJVuIIPSBr3oKvMRE",
+    "client_id": 000000,
+    "bot_token": "xxxxxxxxxxx",
     "bot_prefix": "!",
     "hunt_role": {
         "button_label": "Notify me~!",
         "message_content": "Heya~!\n\nDo you want to be notified when we post our daily song hunts?? If so, click this shiny button below to get the role!",
-        "role_id": 1048026953527083060,
+        "role_id": 000000,
         "role_add_msg": "Role Added!",
         "role_rmv_msg": "Role Removed!"
     }
